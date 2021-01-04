@@ -5,7 +5,7 @@
   "RemoteButton.FastBackward|block": "向左",
   "RemoteButton.FastForward|block": "向右",
   "RemoteButton.Menu|block": "菜单",
-  "RemoteButton.Minus|block": "向下",
+  "RemoteButton.Minus|block": "-",
   "RemoteButton.Mode|block": "模式",
   "RemoteButton.Mute|block": "声音",
   "RemoteButton.NUM0|block": "0",
